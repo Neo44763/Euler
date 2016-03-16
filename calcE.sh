@@ -3,7 +3,6 @@
 ecalc() {
     let n=1000
     let m=n
-    #(( n < 22 )) && m=22
 
     echo -n 2.
 
